@@ -1,7 +1,8 @@
 
 h1. notice
-- forked from original pepite/Play--framework-Spring-module
-- modified for integrating with play 1.3.x suppporting java 8 and spring module 4.1.6 
+h4. testing version
+h4. forked from original pepite/Play--framework-Spring-module
+h4. modified for integrating with play 1.3.x suppporting java 8 and spring module 4.1.6 
 
 h1. Spring module
 
